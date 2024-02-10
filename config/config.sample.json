@@ -1,0 +1,4 @@
+{
+	"inPath": "C:/path/to/export/directory/",
+	"outPath": "../relative/path/from/buildWeb.mjs/directory/"
+}
